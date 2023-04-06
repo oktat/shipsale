@@ -1,0 +1,16 @@
+{
+  "name": "ship_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "hai-server --watch database.json --port 8000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hai-server": "^0.0.4"
+  }
+}
